@@ -1,0 +1,60 @@
+#projects {
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  overflow-x: hidden;
+}
+.projectComponent {
+  background-color: $color4;
+  margin: 20px;
+  width: 300px;
+  height: 400;
+  padding: 1rem;
+  border-radius: 30px;
+
+  > img {
+    max-height: 120px;
+    object-fit: contain;
+  }
+  > div {
+    margin: 10px;
+    > a {
+      padding: 0.5rem;
+      font-size: 0.7rem;
+      text-decoration: none;
+
+      &:first-of-type {
+        color: $color2_dark;
+        background-color: $color2_light;
+        border-radius: 20px;
+        &:hover {
+          color: $color2_light;
+          background-color: $color2_dark;
+        }
+      }
+      &:last-of-type {
+        margin: 5px;
+        color: $color6;
+        background-color: $color6_2;
+        border-radius: 20px;
+        &:hover {
+          color: $color4;
+          background-color: $color6;
+        }
+      }
+    }
+  }
+  > div {
+    text-align: center;
+    > h2 {
+      font: 400 1.2rem $text1;
+    }
+    > p {
+      margin-top: 10px;
+      font-family: $text2;
+      font-size: 0.8rem;
+    }
+  }
+}

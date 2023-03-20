@@ -1,0 +1,156 @@
+{
+  "projects": [
+    {
+      "date": "27/06/2021",
+      "title": "Color Generator",
+      "description": "This React.js based color generator application uses the Values.js module to generate 10 lighter shades and 10 darker tints of a color specified by the user. It also includes a tap-to-copy feature for the HEX code. The project offers 20 different RGB values for each color, making it easy for users to find the perfect shade or tint for their needs.",
+      "github": "https://github.com/anuragbhardwaj13/color-generator",
+      "liveUrl": "https://color-generator-anurag.netlify.app/",
+      "imgSrc": "https://res.cloudinary.com/dunhtrrcq/image/upload/v1678204500/Color_Generator_vqsnhg.png"
+    },
+    {
+      "date": "28/02/2022",
+      "title": "Patient Details QR Generator",
+      "description": "The application built with React.js generates unique QR codes containing patient details for quick and easy access by healthcare providers. Users can input personal and medical information, and the QR code can be scanned by doctors to retrieve the details, eliminating paperwork and reducing errors caused by manual data entry.",
+      "github": "https://github.com/anuragbhardwaj13/patient-details",
+      "liveUrl": "https://patient-test.netlify.app/",
+      "imgSrc": "https://res.cloudinary.com/dunhtrrcq/image/upload/v1678210762/Patient_Details_dkmiee.png"
+    },
+    {
+      "date": "03/03/2023",
+      "title": "Techer : Landing Page",
+      "description": "Techer landing page, built with React.js and SCSS, showcases the startup's services of web development, mobile app development, and digital marketing. It includes information about their previous clients, displaying their credibility and expertise. The design is modern with a blue and white color scheme, and the landing page is responsive for various screen sizes and devices. Overall, the Techer landing page is effective in communicating the startup's value proposition and services.",
+      "github": "https://github.com/anuragbhardwaj13/techer",
+      "liveUrl": "https://techer-landing-page-react.vercel.app/",
+      "imgSrc": "https://res.cloudinary.com/dunhtrrcq/image/upload/v1678211198/React_App_ub7gwd.png"
+    },
+    {
+      "date": "04/03/2023",
+      "title": "Streamerr : A Chakra UI Demonstration",
+      "description": "Streamerr is a React.js-based website with Chakra UI and React Routes. The landing page allows users to view game streams and features a login and signup system. The website has a clean and modern design with a responsive interface including dark mode. Overall, Streamerr can be a great website for gamers who want to view game streams and engage with the gaming community",
+      "github": "https://github.com/anuragbhardwaj13/streamerr",
+      "liveUrl": "https://streamerr-landing.vercel.app/",
+      "imgSrc": "https://res.cloudinary.com/dunhtrrcq/image/upload/v1678211309/streamerr_fzkohw.png"
+    },
+    {
+      "date": "05/03/2023",
+      "title": "Crypx : A coingecko API Demonstration",
+      "description": "This project is a React.js frontend application that fetches data from the Coingecko API to display information about various cryptocurrencies. The application also allows users to view charts of different time variants for each cryptocurrency and utilizes Chart.js to display the charts on the webpage. The goal of this project is to provide an easy-to-use and visually appealing way for users to learn about different cryptocurrencies and track their performance over time.",
+      "github": "https://github.com/anuragbhardwaj13/crypx",
+      "liveUrl": "https://crypx-five.vercel.app/",
+      "imgSrc": "https://res.cloudinary.com/dunhtrrcq/image/upload/v1678211308/crypx_yyk28n.png"
+    },
+    {
+      "date": "06/03/2023",
+      "title": "Carterr : A shopping cart",
+      "description": "This project is a basic webpage built using React.js and Redux, showcasing a list of products and a shopping cart. The webpage allows users to add products to the cart and adjust the quantity. The primary objective of this project is to demonstrate the implementation of Redux in React.js, providing a better understanding of state management and its benefits. The webpage has a minimalist design with a clean and user-friendly interface, making it easy for users to interact with. Overall, this project is an excellent resource for developers looking to learn about Redux in React.js.",
+      "github": "https://github.com/anuragbhardwaj13/redux-carterrr",
+      "liveUrl": "https://redux-cart-self.vercel.app/",
+      "imgSrc": "https://res.cloudinary.com/dunhtrrcq/image/upload/v1678211308/Carterrr_ohyj1h.png"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "icon": "https://res.cloudinary.com/dunhtrrcq/image/upload/v1678224269/Skills%20logo/html_gigclf.png"
+    },
+    {
+      "name": "CSS",
+      "icon": "https://res.cloudinary.com/dunhtrrcq/image/upload/v1678224269/Skills%20logo/css-3_wprjsm.png"
+    },
+    {
+      "name": "JavaScript",
+      "icon": "https://res.cloudinary.com/dunhtrrcq/image/upload/v1678224269/Skills%20logo/js_oajm7q.png"
+    },
+    {
+      "name": "React.js",
+      "icon": "https://res.cloudinary.com/dunhtrrcq/image/upload/v1678224269/Skills%20logo/science_j84i61.png"
+    },
+    {
+      "name": "Redux",
+      "icon": "https://res.cloudinary.com/dunhtrrcq/image/upload/v1678224268/Skills%20logo/icons8-redux-480_ctv96s.png"
+    },
+    {
+      "name": "Node.js",
+      "icon": "https://res.cloudinary.com/dunhtrrcq/image/upload/v1678224269/Skills%20logo/node-js_a4yvln.png"
+    },
+    {
+      "name": "Java",
+      "icon": "https://res.cloudinary.com/dunhtrrcq/image/upload/v1678224269/Skills%20logo/java_u7jjel.png"
+    },
+    {
+      "name": "Python",
+      "icon": "https://res.cloudinary.com/dunhtrrcq/image/upload/v1678224269/Skills%20logo/python_pmvsxh.png"
+    },
+    {
+      "name": "C++",
+      "icon": "https://res.cloudinary.com/dunhtrrcq/image/upload/v1678224268/Skills%20logo/icons8-c_-480_j66oft.png"
+    },
+    {
+      "name": "CI/CD",
+      "icon": "https://res.cloudinary.com/dunhtrrcq/image/upload/v1678224268/Skills%20logo/devops_mxuel5.png"
+    },
+    {
+      "name": "Jenkins",
+      "icon": "https://res.cloudinary.com/dunhtrrcq/image/upload/v1678224269/Skills%20logo/jenkins_yxf3jy.png"
+    },
+    {
+      "name": "Kubernetes",
+      "icon": "https://res.cloudinary.com/dunhtrrcq/image/upload/v1678224268/Skills%20logo/icons8-kubernetes-480_se9zyn.png"
+    },
+    {
+      "name": "Docker",
+      "icon": "https://res.cloudinary.com/dunhtrrcq/image/upload/v1678224268/Skills%20logo/icons8-docker-480_vowuoo.png"
+    },
+    {
+      "name": "Git",
+      "icon": "https://res.cloudinary.com/dunhtrrcq/image/upload/v1678224268/Skills%20logo/git_gkqv3g.png"
+    },
+    {
+      "name": "MySQL",
+      "icon": "https://res.cloudinary.com/dunhtrrcq/image/upload/v1678224268/Skills%20logo/icons8-mysql-logo-480_wdez7x.png"
+    },
+    {
+      "name": "MongoDB",
+      "icon": "https://res.cloudinary.com/dunhtrrcq/image/upload/v1678224268/Skills%20logo/icons8-mongodb-480_fja6i6.png"
+    },
+    {
+      "name": "Robot Framework",
+      "icon": "https://res.cloudinary.com/dunhtrrcq/image/upload/v1678224268/Skills%20logo/Robot-framework-logo_x455ub.png"
+    },
+    {
+      "name": "Adobe Illustrator",
+      "icon": "https://res.cloudinary.com/dunhtrrcq/image/upload/v1678224268/Skills%20logo/illustrator_vxjvix.png"
+    },
+    {
+      "name": "Adobe Photoshop",
+      "icon": "https://res.cloudinary.com/dunhtrrcq/image/upload/v1678224268/Skills%20logo/photoshop_x9y6hv.png"
+    }
+  ],
+  "exp": [
+    {
+      "org": "Nokia",
+      "position": "Student Intern",
+      "type": "Internship",
+      "start": "01/09/2022",
+      "end": "Present",
+      "desc": "CI/CD using Jenkins, Automation Testing using Robot Framework,ZTS Automation and Adaption using Jenkins and Gitlab."
+    },
+    {
+      "org": "IEEE Student Branch CGC COE",
+      "position": "Vice Chair",
+      "type": "Volunteering",
+      "start": "01/08/2021",
+      "end": "15/08/2022",
+      "desc": "Organized and Co-ordinated many workshops and Events related to DSA, Programming, Cyber Security and Blockchain. Delivered workshop on React.js and Javascript"
+    },
+    {
+      "org": "Codechef CGC Chapter",
+      "position": "President",
+      "type": "Volunteering",
+      "start": "01/07/2021",
+      "end": "15/07/2022",
+      "desc": "Organized and Co-ordinated many workshops and Contests related to DSA and Competitive Programming, Organized 3 Month Long Workshop covering DSA from basics to advance level in Collaboration with Codechef UMIT Chapter"
+    }
+  ]
+}
