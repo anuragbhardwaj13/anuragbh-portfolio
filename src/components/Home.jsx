@@ -33,7 +33,7 @@ const Home = () => {
             }}
           />
           <div>
-            <a href="https://bit.ly/AnuragBhResume" target="blank">
+            <a href="https://cutt.ly/M4zuomE" target="blank">
               My Resume <BsFileEarmarkFill />
             </a>
           </div>
