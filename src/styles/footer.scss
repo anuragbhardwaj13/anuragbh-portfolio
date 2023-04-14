@@ -5,17 +5,20 @@ footer {
   padding: 2rem;
   color: $color2;
   display: grid;
-  grid-template-columns: 4fr 1fr;
+  grid-template-columns: 4fr 4fr;
   padding: 2rem;
 
   > div {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
+
     > h1 {
       font: 700 2rem $text1;
       text-transform: uppercase;
       color: $color5;
+      margin-left: 20px;
     }
     > p {
       font: 500 0.7rem $text1;
@@ -40,7 +43,7 @@ footer {
     > div {
       display: flex;
       flex-direction: column;
-
+      margin-bottom: 20px;
       align-items: center;
       a {
         color: $color5;
